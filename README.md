@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidd626
 - 👀 I’m interested in creating legacies to save the world.
 - 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me davidd626@protonmail.com
 
 <!---
